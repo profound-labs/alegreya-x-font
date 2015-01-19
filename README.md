@@ -2,7 +2,7 @@
 
 The original Alegreya
 font by Juan Pablo del Peral, extended with accented characters for the
-Slovenian and Pali languages.
+Pali language.
 
 After installing, find this font as "Alegreya X".
 
