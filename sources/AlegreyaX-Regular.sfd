@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1325707245
-ModificationTime: 1421736957
+ModificationTime: 1421740108
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -78,8 +78,8 @@ Grid
 -1000 819 m 0
  2000 819 l 1024
   Named: "dotupper"
--1000 -174.5 m 0
- 2000 -174.5 l 1024
+-1000 -191.5 m 0
+ 2000 -191.5 l 1024
   Named: "dotlower"
 EndSplineSet
 BeginChars: 517 514
@@ -19042,7 +19042,7 @@ SplineSet
  538 277 l 1
  532 277 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: onehalf
