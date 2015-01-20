@@ -4,6 +4,7 @@ FullName: Alegreya X
 FamilyName: Alegreya X
 Weight: Regular
 Copyright: Copyright (c) 2011, Juan Pablo del Peral (juan@huertatipografica.com.ar), with Reserved Font Names "Alegreya" "Alegreya SC"
+FontLog: "2015-01-20: Added missing Pali characters +HkMA +HkEA +HkUA +Hm0A +Hg0A +HkcA +HjcA +HkIA +HkAA +HkQA +HmwA +HgwA +HkYA +HjYA"
 Version: 001.002
 ItalicAngle: 0
 UnderlinePosition: -59
@@ -21,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1325707245
-ModificationTime: 1421740108
+ModificationTime: 1421741031
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
