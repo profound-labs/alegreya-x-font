@@ -1,6 +1,6 @@
 # Alegreya X
 
-The original Alegreya
+The original [Alegreya](http://www.fontsquirrel.com/fonts/alegreya)
 font by Juan Pablo del Peral, extended with accented characters for the
 Pali language.
 
